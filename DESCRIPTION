@@ -1,15 +1,15 @@
 Package: RToyPackage
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
+Title: A toy package for demonstrating how to create R package
+Version: 0.0.0.1
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Zhenguo",
+           family = "Zhang",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to
-    pick a license
+           email = "zhangz.sci@gmail.com",
+           comment = c(ORCID = "0000-0002-9444-9604"))
+Description: this is simply a collection of functions which make things fun
+    and easier.
+License: `use_gpl3_license()`
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
