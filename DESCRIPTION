@@ -9,7 +9,7 @@ Authors@R:
            comment = c(ORCID = "0000-0002-9444-9604"))
 Description: this is simply a collection of functions which make things fun
     and easier.
-License: `use_gpl3_license()`
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
